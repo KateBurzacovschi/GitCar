@@ -5,9 +5,9 @@ public class Main {
         Carbasics car=new Carbasics();
 
         car.color="green";
-        car.number="2223ws";
-        car.engine="333333";
-        car.door="3";
+        car.number="22";
+        car.engine="333444333";
+        car.door="4";
 
         System.out.println(car.color);
     }
